@@ -1,11 +1,19 @@
-.navbar{
-    background-color: rgb(11, 34, 68);
+.navbar {
+    background-color: rgb(27, 27, 27);
 }
-/* .row{
-    text-align: center;
-    margin: 5rem 10rem ;
+
+.container {
+    border-radius: 2rem;
+    /* background-color: rgb(245, 151, 114); */
 }
-.card{
-    margin-left:2rem;
-    margin-right: 2rem;
-} */
+
+.heading {
+    font-weight: bolder;
+    font-size: 5rem;
+}
+
+hr {
+    color: black;
+    border: 0.1rem solid black;
+    size: 1rem;
+}
